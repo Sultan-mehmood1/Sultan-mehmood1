@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sultan-mehmood1
-- 👀 I’m interested in c++ and java programmiing
-- 🌱 I’m currently learning python c++ AND JAVA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java Programming and Web development and AI
+- 🌱 I’m currently learning python, Machine Learning and Ethical Hacking
+- 💞️ I’m looking to collaborate on AI and Machine Learning
 - 📫 How to reach me sultan255243@gmail.com
 
 <!---
